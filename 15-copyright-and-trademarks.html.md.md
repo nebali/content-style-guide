@@ -1,11 +1,5 @@
 # Copyright and Trademarks
 
-
-
-| title | layout |
-| :--- | :--- |
-| Copyright and Trademarks | article |
-
 Copyright is a bundle of exclusive legal rights that vary depending on the type of work. A copyright owner can grant some or all of those rights to others through a license. This section will lay out our approach to copyrights, trademarks, and Creative Commons licenses.
 
 ### Basics

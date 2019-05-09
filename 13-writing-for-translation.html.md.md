@@ -1,11 +1,5 @@
 # Writing for Translation
 
-
-
-| title | layout |
-| :--- | :--- |
-| Writing for Translation | article |
-
 Mailchimp serves millions of users in hundreds of countries and territories, not just the United States. As our user base grows, it becomes more and more important that our content is accessible to people around the world.
 
 We call the process of writing copy for translation “internationalization.” This section will address things you can do to help international audiences, including translators, better comprehend your text.

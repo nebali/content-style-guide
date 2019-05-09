@@ -1,11 +1,5 @@
 # Word List
 
-
-
-| title | layout |
-| :--- | :--- |
-| Word List | article |
-
 These words can be slippery. Here’s how we write them.
 
 * add-on \(noun, adjective\), add on \(verb\)

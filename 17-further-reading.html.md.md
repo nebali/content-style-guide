@@ -1,11 +1,5 @@
 # Further Reading
 
-
-
-| title | layout |
-| :--- | :--- |
-| Further Reading | article |
-
 We love these style guides:
 
 [18F Content Guide](https://pages.18f.gov/content-guide/)  
