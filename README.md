@@ -1,10 +1,15 @@
-# Initial page
+---
+description: >-
+  This is our company style guide. It helps us write clear and consistent
+  content across teams and channels. Please use it as a reference when you’re
+  writing for OmiseGO.
+---
 
-This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
+# OmiseGO Style Guide
 
-### If you work at Mailchimp
+## If you work at OmiseGO
 
-This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Mailchimp.
+This is our company style guide. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for OmiseGO.
 
 This guide goes beyond basic grammar and style points. It’s not traditional in format or content. We break a number of grammar rules for clarity, practicality, or preference.
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [OmiseGO Style Guide](README.md)
 * [Writing Principles](01-writing-principles.html.md.md)
 * [Voice and Tone](02-voice-and-tone.html.md.md)
 * [Writing About People](03-writing-about-people.html.md.md)
